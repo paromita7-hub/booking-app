@@ -59,4 +59,4 @@ Thumbs.db
 
 # Docker
 *.local
-.graphify-out
+graphify-out
